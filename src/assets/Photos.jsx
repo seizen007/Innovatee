@@ -9,7 +9,7 @@ const images = {
 		.href,
 
 	icons: {
-		icon_1: new URL("../assets/Icons/icon1.png", import.meta.url).href,
+		icon_1: new URL("../assets/Icons/icon2.png", import.meta.url).href,
 		icon_2: new URL("../assets/Icons/icon2.png", import.meta.url).href,
 		icon_3: new URL("../assets/Icons/icon3.png", import.meta.url).href,
 	},
